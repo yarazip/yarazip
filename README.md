@@ -1,4 +1,5 @@
-# 👋 Olá!
+# ![👋](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+ Olá!
 Sou **Yara**, uma desenvolvedora apaixonada por arte e tecnologia!  
 _A arte e a tecnologia como instrumentos para a **luta social** e a **transformação revolucionária**☭._
 
