@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B6BBC4&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=604CC3&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 ---
-Sou **Yara**, uma desenvolvedora apaixonada por arte e tecnologia!  
+Olá Mundo! Me chamo **Yara** e sou uma desenvolvedora apaixonada por arte e tecnologia!  
 _A arte e a tecnologia como instrumentos para a **luta social** e a **transformação revolucionária**☭._
 
 ---
@@ -30,7 +30,7 @@ _A arte e a tecnologia como instrumentos para a **luta social** e a **transforma
   <h3>GitHub Stats</h3>
   <br>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yarazip&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=161A30&title_color=5C469C&text_color=B6BBC4&border_radius=3&border_color=5C469C&icon_color=5C469C&theme=jolly" alt="GitHub stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yarazip&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=7C00FE&title_color=5C469C&text_color=B6BBC4&border_radius=3&border_color=5C469C&icon_color=5C469C&theme=jolly" alt="GitHub stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yarazip&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=5C469C&hide=html,scss,less&bg_color=161A30&text_color=B6BBC4&border_radius=3&border_color=5C469C" alt="Most Used Languages">
   </div>
 </div>
