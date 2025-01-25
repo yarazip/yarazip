@@ -4,8 +4,8 @@ _A arte e a tecnologia como instrumentos para a **luta social** e a **transforma
 
 ---
 
-- 🎓 Estudo **Análise e Desenvolvimento de Sistemas**.
-- 🔭 Atualmente estou trabalhando em um **Portifólio**. 
+- 🎓 Estudo **Análise e Desenvolvimento de Sistemas**(4/4).
+- 🔭 Estou trabalhando em um **Portifólio**. 
 - 🌱 Atualmente estou aprendendo **JavaScript, Git e Ferramentas Web**.  
 - 👯 Procuro colaborar em **projetos de código aberto**.  
 - ⚡ Curiosidade: Adoro resolver quebra-cabeças, desenhar e aprender coisas novas.
