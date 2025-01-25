@@ -23,7 +23,7 @@ _A arte e a tecnologia como instrumentos para a **luta social** e a **transforma
 Fique à vontade para me enviar uma mensagem ou colaborar em projetos! 😊
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yararosasilva/yararosasilva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yararosasilva/yararosasilva/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yararosasilva/yararosasilva/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yarazip/yarazip/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yarazip/yarazip/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yarazip/yarazip/output/github-contribution-grid-snake.svg">
 </picture>
