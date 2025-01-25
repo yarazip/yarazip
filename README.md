@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4E4FEB&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EEEEEE&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -31,10 +31,12 @@ Olá Mundo! Me chamo **Yara** e sou uma desenvolvedora apaixonada por arte e tec
   <h3>GitHub Stats</h3>
   <br>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yarazip&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=4E4FEB&text_color=B6BBC4&border_radius=5&border_color=EEEEEE&icon_color=4E4FEB&theme=jolly" alt="GitHub stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yarazip&line_height=25&card_width=300&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=4E4FEB&hide=html,scss,less&bg_color=000000&text_color=B6BBC4&border_radius=5&border_color=EEEEEE&icon_color=4E4FEB" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yarazip&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=EEEEEE&text_color=B6BBC4&border_radius=5&border_color=4E4FEB&icon_color=4E4FEB&theme=jolly" alt="GitHub stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yarazip&line_height=25&card_width=300&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=EEEEEE&hide=html,scss,less&bg_color=000000&text_color=B6BBC4&border_radius=5&border_color=4E4FEB&icon_color=4E4FEB" alt="Most Used Languages">
   </div>
 </div>
+
+---
 
 #
 
