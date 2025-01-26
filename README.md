@@ -46,7 +46,7 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
   <br>
 
-  <img align="right" alt="" height="190px" src="study.gif">
+  <img align="right" alt="" height="100px" src="study.gif">
 
 
   <h3>🌐 Connect with me!</h3>
