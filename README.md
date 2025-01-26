@@ -43,7 +43,7 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 ---
 
-v<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
     <img src="study.gif" alt="GIF de estudo" height="190px" style="border-radius: 8px;">
     <div style="display: flex; flex-direction: row; margin-left: 20px;">
         <div style="display: flex; flex-direction: column; text-align: center;">
@@ -60,6 +60,7 @@ v<div style="display: flex; align-items: center;">
         </div>
     </div>
 </div>
+
 
 
 
