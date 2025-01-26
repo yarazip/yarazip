@@ -4,13 +4,13 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
-
 ---
 
  <div align="center">
 Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada por arte e tecnologia!  
  </div>
+
+<img align="right" alt="" height="190px" src="study.gif">
 
   <!-- My Stack à direita -->
   <div align="center">
