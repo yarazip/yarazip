@@ -43,15 +43,16 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 ---
 
-<h3 align="left">🌐 Connect with me!</h3>
+<div>
+    <img src="study.gif" alt="GIF de estudo" height="190px" style="border-radius: 8px;">
+</div>
+
+<h3 align="right">🌐 Connect with me!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=EEEEEE)](https://www.linkedin.com/in/yara-rosa-dev)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=EEEEEE)](https://github.com/yararosasilva)  
 [![Instagram Artístico](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=EEEEEE)](https://instagram.com/ynharaart)
 
-<div style="text-align: left;">
-    <img src="study.gif" alt="GIF de estudo" height="190px" style="border-radius: 8px;">
-</div>
 
 #
 
