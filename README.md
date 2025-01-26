@@ -43,21 +43,24 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 ---
 
-<div style="display: flex; align-items: center;">
+v<div style="display: flex; align-items: center;">
     <img src="study.gif" alt="GIF de estudo" height="190px" style="border-radius: 8px;">
-    <div style="display: flex; flex-direction: column; margin-left: 20px;">
-        <h3>🌐 Connect with me!</h3>
-        <a href="https://www.linkedin.com/in/yara-rosa-dev" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=EEEEEE" alt="LinkedIn">
-        </a>
-        <a href="https://github.com/yararosasilva" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=EEEEEE" alt="GitHub">
-        </a>
-        <a href="https://instagram.com/ynharaart" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=EEEEEE" alt="Instagram">
-        </a>
+    <div style="display: flex; flex-direction: row; margin-left: 20px;">
+        <div style="display: flex; flex-direction: column; text-align: center;">
+            <h3>🌐 Connect with me!</h3>
+            <a href="https://www.linkedin.com/in/yara-rosa-dev" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=EEEEEE" alt="LinkedIn">
+            </a>
+            <a href="https://github.com/yararosasilva" target="_blank">
+                <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=EEEEEE" alt="GitHub">
+            </a>
+            <a href="https://instagram.com/ynharaart" target="_blank">
+                <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=EEEEEE" alt="Instagram">
+            </a>
+        </div>
     </div>
 </div>
+
 
 
 
