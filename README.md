@@ -39,8 +39,8 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 - 🔭 Estou trabalhando em um **Portfólio**.  
 - 🌱 Atualmente estou aprendendo **JavaScript, Git e Ferramentas Web**.  
 - 👯 Procuro colaborar em **projetos de código aberto**.  
-- ⚡ Curiosidade: Adoro resolver quebra-cabeças, desenhar e aprender coisas novas.  
-- 🎯 Buscando melhorar habilidades de programação e contribuir para projetos de impacto.
+- ⚡ Adoro resolver quebra-cabeças, desenhar e aprender coisas novas.  
+- 🎯 Busco melhorar habilidades de programação e contribuir para projetos de impacto.
 
 #
 
