@@ -44,9 +44,9 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- Conteúdo de texto -->
-  <div>
-    <h3 align="left">🌐 Connect with me!</h3>
+  <!-- Texto alinhado à esquerda -->
+  <div style="text-align: left;">
+    <h3>🌐 Connect with me!</h3>
     <p>
       <a href="https://www.linkedin.com/in/yara-rosa-dev" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=EEEEEE" alt="LinkedIn">
@@ -62,12 +62,11 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
     </p>
   </div>
 
-  <!-- GIF -->
+  <!-- GIF alinhado à direita -->
   <div>
     <img src="study.gif" alt="GIF de estudo" height="190px" style="border-radius: 8px;">
   </div>
 </div>
-
 
 #
 
