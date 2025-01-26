@@ -49,11 +49,7 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=EEEEEE)](https://github.com/yararosasilva)  
 [![Instagram Artístico](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=EEEEEE)](https://instagram.com/ynharaart)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- GIF lofi à esquerda -->
-  <div align="right">
-    <img src="study.gif" alt="Lofi GIF" height="200">
-  </div>
+<img align="center" alt="" src="study.gif">
 
 #
 
