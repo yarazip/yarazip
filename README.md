@@ -46,7 +46,7 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
   <br>
 
-  <img align="center" alt="" height="190px" src="study.gif">
+  <img align="right" alt="" height="190px" src="study.gif">
 
 
   <h3>🌐 Connect with me!</h3>
@@ -59,8 +59,7 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
         <a href="https://instagram.com/ynharaart" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=EEEEEE" alt="Instagram">
         </a>  
-    </div>
-</div>
+    
 
 ---
 
