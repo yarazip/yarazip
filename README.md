@@ -7,7 +7,7 @@
 ---
 
  <div align="center">
-Olá Mundo! Me chamo **Yara** e sou uma desenvolvedora apaixonada por arte e tecnologia!  
+Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada por arte e tecnologia!  
  </div>
 
   <!-- My Stack à direita -->
