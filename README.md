@@ -47,8 +47,6 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
   <img align="right" alt="" height="190px" src="study.gif">
 
 
----
-
   <h3>🌐 Connect with me!</h3>
         <a href="https://www.linkedin.com/in/yara-rosa-dev" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=EEEEEE" alt="LinkedIn">
@@ -63,12 +61,6 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 </div>
 
 
-
-
-<br>
-
-
-#
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
