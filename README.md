@@ -43,7 +43,8 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 ---
 
-<div style="display: flex; align-items: left; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Conteúdo de texto -->
   <div>
     <h3 align="left">🌐 Connect with me!</h3>
     <p>
@@ -60,10 +61,13 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
       </a>
     </p>
   </div>
+
+  <!-- GIF -->
   <div>
     <img src="study.gif" alt="GIF de estudo" height="190px" style="border-radius: 8px;">
   </div>
 </div>
+
 
 #
 
