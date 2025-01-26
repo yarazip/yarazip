@@ -49,8 +49,9 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=EEEEEE)](https://github.com/yararosasilva)  
 [![Instagram Artístico](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=EEEEEE)](https://instagram.com/ynharaart)
 
-<img align="right" alt="" height="160px" src="study.gif">
-
+<div style="text-align: left;">
+    <img src="study.gif" alt="GIF de estudo" height="190px" style="border-radius: 8px;">
+</div>
 
 #
 
