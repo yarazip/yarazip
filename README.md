@@ -51,8 +51,8 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- GIF lofi à esquerda -->
-  <div align="left">
-    <img src="https://media.giphy.com/media/26FPnsRwwOdodgz4g/giphy.gif" alt="Lofi GIF" height="200">
+  <div align="right">
+    <img src="study.gif" alt="Lofi GIF" height="200">
   </div>
 
 #
