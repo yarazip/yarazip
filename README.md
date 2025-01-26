@@ -42,9 +42,11 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 - ⚡ Curiosidade: Adoro resolver quebra-cabeças, desenhar e aprender coisas novas.  
 - 🎯 Buscando melhorar habilidades de programação e contribuir para projetos de impacto.
 
+#
+
   <br>
 
-  <img align="right" alt="" height="190px" src="study.gif">
+  <img align="center" alt="" height="190px" src="study.gif">
 
 
   <h3>🌐 Connect with me!</h3>
