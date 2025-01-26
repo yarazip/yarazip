@@ -10,7 +10,6 @@
 Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada por arte e tecnologia!  
  </div>
 
-<img align="right" alt="" height="190px" src="study.gif">
 
   <!-- My Stack à direita -->
   <div align="center">
@@ -41,7 +40,10 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 - 🌱 Atualmente estou aprendendo **JavaScript, Git e Ferramentas Web**.  
 - 👯 Procuro colaborar em **projetos de código aberto**.  
 - ⚡ Curiosidade: Adoro resolver quebra-cabeças, desenhar e aprender coisas novas.  
-- 🎯 Buscando melhorar habilidades de programação e contribuir para projetos de impacto.  
+- 🎯 Buscando melhorar habilidades de programação e contribuir para projetos de impacto.
+
+  <img align="right" alt="" height="190px" src="study.gif">
+
 
 ---
 
