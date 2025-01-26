@@ -43,7 +43,7 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: left; gap: 20px;">
   <div>
     <h3 align="left">🌐 Connect with me!</h3>
     <p>
