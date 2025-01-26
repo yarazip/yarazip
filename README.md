@@ -60,7 +60,7 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
             <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=EEEEEE" alt="Instagram">
         </a>  
         
-    <br>
+  <br>
 
 #
 
