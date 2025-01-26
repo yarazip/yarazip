@@ -25,11 +25,10 @@ Olá Mundo! Me chamo **Yara** e sou uma desenvolvedora apaixonada por arte e tec
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=EEEEEE)](https://github.com/yararosasilva)  
 [![Instagram Artístico](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=EEEEEE)](https://instagram.com/ynharaart)
 
----
 
-<h3 align="left">My Stack</h3>
+<h3 align="right">My Stack</h3>
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
@@ -49,6 +48,7 @@ Olá Mundo! Me chamo **Yara** e sou uma desenvolvedora apaixonada por arte e tec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo" />
 </div>
 
+#
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
