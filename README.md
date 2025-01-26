@@ -60,10 +60,10 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
     </div>
 </div>
 
-
+---
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3> GitHub Stats </h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yarazip&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=EEEEEE&text_color=FFF&border_radius=3&border_color=EEEEEE&icon_color=EEEEEE&theme=jolly" alt="GitHub stats">
 
