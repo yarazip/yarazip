@@ -37,7 +37,7 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 - 🎓 Estudo **Análise e Desenvolvimento de Sistemas** (4/4).  
 - 🔭 Estou trabalhando em um **Portfólio**.  
-- 🌱 Atualmente estou aprendendo **JavaScript, Git e Ferramentas Web**.  
+- 🌱 Atualmente estou aprendendo **JavaScript, Java, Git e Ferramentas Web**.  
 - 👯 Procuro colaborar em **projetos de código aberto**.  
 - ⚡ Adoro resolver quebra-cabeças, desenhar e aprender coisas novas.  
 - 🎯 Busco melhorar habilidades de programação e contribuir para projetos de impacto.
@@ -79,7 +79,7 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 #
 
-_A arte e a tecnologia como instrumentos para a **luta social** e a **transformação revolucionária** ☭._
+_O conhecimento só faz sentido quando compartilhado☭._
 
 #
 
