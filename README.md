@@ -53,7 +53,7 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
     <a href="https://www.linkedin.com/in/yara-rosa-dev" target="_blank" style="display: block; margin: 5px 0;">
         <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=EEEEEE" alt="LinkedIn">
     </a>  
-    <a href="https://github.com/yararosasilva" target="_blank" style="display: block; margin: 5px 0;">
+    <a href="https://github.com/yarazip" target="_blank" style="display: block; margin: 5px 0;">
         <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=EEEEEE" alt="GitHub">
     </a>  
     <a href="https://instagram.com/ynharaart" target="_blank" style="display: block; margin: 5px 0;">
