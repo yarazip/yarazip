@@ -80,7 +80,7 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 #
 
-_O conhecimento só faz sentido quando compartilhado☭._
+_O conhecimento só faz sentido quando compartilhado!._
 
 #
 
