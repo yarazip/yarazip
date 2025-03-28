@@ -13,21 +13,14 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; overflow-x: auto; white-space: nowrap; display: flex; justify-content: center; gap: 10px;">
   <div align="center">
-  <h3>My Stack</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
-  </p>
-</div>
+## 🛠 My Stack  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,aws,apache,php,typescript,vscode,git,laravel,eclipse&theme=light" />
+  </a>
+</p>
+
 
 
 <div>
