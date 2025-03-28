@@ -4,31 +4,26 @@
   </a>
 </div>
 
+<div align="center">
+  Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada por arte e tecnologia!
+</div>
+
 ---
 
- <div align="center">
-Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada por arte e tecnologia!  
- </div>
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px; max-width: 600px; width: 100%;">
+  <h2 style="color: #333; font-size: 28px; margin-bottom: 20px;">🛠 My Stack</h2>  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,aws,php,typescript,vscode,git,laravel,eclipse&theme=light" />
+    </a>
+  </p>
+</div>
 
-
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; overflow-x: auto; white-space: nowrap; display: flex; justify-content: center; gap: 10px;">
-  <div align="center">
-## 🛠 My Stack  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,aws,apache,php,typescript,vscode,git,laravel,eclipse&theme=light" />
-  </a>
-</p>
-
-
-
-<div>
 ---
 
 - 🎓 Estudo **Análise e Desenvolvimento de Sistemas** (4/4).  
 - 🔭 Estou trabalhando em um **Portfólio**.  
-- 🌱 Atualmente estou aprendendo **JavaScript, Java, Git e Ferramentas Web**.
+- 🌱 Atualmente estou aprendendo **JavaScript, Java, Git e Ferramentas Web**.  
 - 🌱 Estou participando **Oracle Next Education** (3/6).  
 - 👯 Procuro colaborar em **projetos de código aberto**.  
 - ⚡ Adoro resolver quebra-cabeças, desenhar e aprender coisas novas.  
@@ -37,23 +32,30 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 #
 
   <br>
+  
+<div style="display: flex; align-items: center; justify-content: center; height: 100vh; gap: 40px;">
+  <!-- Imagem à esquerda -->
+  <img alt="Profile Image" height="180px" src="study.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-  <img align="left" alt="" height="140px" src="study.gif">
-
-<div style="text-align: left;" align="left">
-    <h3>🌐 Connect with me!</h3>
-    <a href="https://www.linkedin.com/in/yara-rosa-dev" target="_blank" style="display: block; margin: 5px 0;">
+  <!-- Links à direita da imagem -->
+  <div style="text-align: left; font-family: 'Arial', sans-serif;">
+    <h3 style="color: #333; margin-bottom: 20px;">🌐 Connect with me!</h3>
+    <a href="https://www.linkedin.com/in/yara-rosa-dev" target="_blank" style="display: block; margin: 8px 0; font-size: 18px; color: #0077B5; text-decoration: none; font-weight: bold;">
         <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=EEEEEE" alt="LinkedIn">
     </a>  
-    <a href="https://github.com/yarazip" target="_blank" style="display: block; margin: 5px 0;">
+    <a href="https://github.com/yarazip" target="_blank" style="display: block; margin: 8px 0; font-size: 18px; color: #333; text-decoration: none; font-weight: bold;">
         <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=EEEEEE" alt="GitHub">
     </a>  
-    <a href="https://instagram.com/ynharaart" target="_blank" style="display: block; margin: 5px 0;">
+    <a href="https://instagram.com/ynharaart" target="_blank" style="display: block; margin: 8px 0; font-size: 18px; color: #E4405F; text-decoration: none; font-weight: bold;">
         <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=EEEEEE" alt="Instagram">
     </a>  
+  </div>
 </div>
-        
-  <br>
+
+
+
+
+<br>  <br>
 
 #
 
