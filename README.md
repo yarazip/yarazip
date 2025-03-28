@@ -12,30 +12,25 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; overflow-x: auto; white-space: nowrap; display: flex; justify-content: center; gap: 10px;">
-    <h3>My Stack</h3>
-    <div style="display: flex; gap: 10px; justify-content: center;">
-        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="html5 logo">
-        </div>
-        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="css3 logo">
-        </div>
-        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" alt="javascript logo">
-        </div>
-        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" alt="java logo">
-        </div>
-        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" alt="mysql logo">
-        </div>
-        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" alt="postgresql logo">
-        </div>
-        <div style="width: 70px; height: 70px; background-color: white; border
+  <div align="center">
+  <h3>My Stack</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="border-radius: 10px; background: #f0f0f0; padding: 10px;"/>
+  </p>
+</div>
 
 
-
+<div>
 ---
 
 - 🎓 Estudo **Análise e Desenvolvimento de Sistemas** (4/4).  
