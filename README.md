@@ -12,26 +12,21 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 
   <!-- My Stack à direita -->
-  <div align="center">
+ <div align="center">
     <h3>My Stack</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" width="40" alt="html5 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" width="40" alt="css3 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" width="40" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" width="40" alt="java logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" width="40" alt="mysql logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" width="40" alt="postgresql logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="25" width="40" alt="AWS logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" height="25" width="40" alt="apache logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="25" width="40" alt="composer logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original-wordmark.svg" height="25" width="40" alt="eclipse logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" width="40" alt="git logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="25" width="40" alt="laravel logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="25" width="40" alt="mysql wordmark logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" width="40" alt="php logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="25" width="40" alt="powershell logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" width="40" alt="typescript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" width="40" alt="vscode logo" />
-  </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <div style="width: 50px; height: 50px; background-color: #f0f0f0; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" alt="html5 logo" />
+        </div>
+        <div style="width: 50px; height: 50px; background-color: #f0f0f0; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" alt="css3 logo" />
+        </div>
+        <div style="width: 50px; height: 50px; background-color: #f0f0f0; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px" alt="javascript logo" />
+        </div>
+    </div>
+</div>
+
 
 ---
 
