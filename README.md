@@ -13,27 +13,54 @@ Olá Mundo! Me chamo <strong>Yara</strong> e sou uma desenvolvedora apaixonada p
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
     <h3>My Stack</h3>
-    <div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: nowrap;">
-        <div style="width: 60px; height: 60px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" alt="html5 logo" />
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="html5 logo">
         </div>
-        <div style="width: 60px; height: 60px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" alt="css3 logo" />
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="css3 logo">
         </div>
-        <div style="width: 60px; height: 60px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="35px" alt="javascript logo" />
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" alt="javascript logo">
         </div>
-        <div style="width: 60px; height: 60px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" alt="java logo" />
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" alt="java logo">
         </div>
-        <div style="width: 60px; height: 60px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35px" alt="mysql logo" />
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" alt="mysql logo">
         </div>
-        <div style="width: 60px; height: 60px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35px" alt="postgresql logo" />
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" alt="postgresql logo">
         </div>
-        <div style="width: 60px; height: 60px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35px" alt="AWS logo" />
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px" alt="AWS logo">
+        </div>
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" width="40px" alt="apache logo">
+        </div>
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40px" alt="composer logo">
+        </div>
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original-wordmark.svg" width="40px" alt="eclipse logo">
+        </div>
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="git logo">
+        </div>
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40px" alt="laravel logo">
+        </div>
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" alt="php logo">
+        </div>
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40px" alt="powershell logo">
+        </div>
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" alt="typescript logo">
+        </div>
+        <div style="width: 70px; height: 70px; background-color: white; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" alt="vscode logo">
         </div>
     </div>
 </div>
