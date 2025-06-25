@@ -23,7 +23,7 @@
 
 - 🎓 Estudo **Análise e Desenvolvimento de Sistemas** (4/4).  
 - 🔭 Estou trabalhando em um **Portfólio**.  
-- 🌱 Atualmente estou aprendendo **JavaScript, Java, Git e Ferramentas Web**.  
+- 🌱 Atualmente estou aprendendo **Angular, Java, Git e Ferramentas Web**.  
 - 🌱 Estou participando **Oracle Next Education** (3/6).  
 - 👯 Procuro colaborar em **projetos de código aberto**.  
 - ⚡ Adoro resolver quebra-cabeças, desenhar e aprender coisas novas.  
