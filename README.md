@@ -82,14 +82,6 @@
 
 ---
 
-#
-
-_O conhecimento só faz sentido quando compartilhado!._
-
-#
-
-Fique à vontade para me enviar uma mensagem ou colaborar em projetos! 😊
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yarazip/yarazip/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yarazip/yarazip/output/github-contribution-grid-snake-dark.svg">
