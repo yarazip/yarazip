@@ -14,7 +14,7 @@
   <h2 style="color: #333; font-size: 28px; margin-bottom: 20px;">🛠 My Stack</h2>  
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,aws,php,typescript,vscode,git,laravel,eclipse&theme=light" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,aws,php,typescript,vscode,git,spring,eclipse&theme=light" />
     </a>
   </p>
 </div>
