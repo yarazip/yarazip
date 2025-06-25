@@ -95,4 +95,12 @@ Fique à vontade para me enviar uma mensagem ou colaborar em projetos! 😊
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yarazip/yarazip/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yarazip/yarazip/output/github-contribution-grid-snake.svg">
 </picture>
-quero ele todo com ess tom de roxo do stats
+---
+
+#
+
+_O conhecimento só faz sentido quando compartilhado!._
+
+#
+
+Fique à vontade para me enviar uma mensagem ou colaborar em projetos! 😊
