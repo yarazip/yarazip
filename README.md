@@ -60,15 +60,22 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3>GitHub Stats</h3>
-  <br>
  <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yarazip&show_icons=true&theme=jolly&count_private=true&hide=issues" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarazip&layout=compact&theme=jolly&hide=html,scss,less&count_private=true" alt="Top Langs" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yarazip&show_icons=true&count_private=true&hide=issues&bg_color=000000&title_color=BBBBBB&text_color=DDDDDD&icon_color=CCCCCC&border_color=444" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarazip&layout=compact&hide=html,scss,less&count_private=true&bg_color=000000&title_color=BBBBBB&text_color=DDDDDD&icon_color=CCCCCC&border_color=444" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 </p>
+
+
 
 </div>
 
