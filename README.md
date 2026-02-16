@@ -21,13 +21,13 @@
 
 ---
 
-- 🎓 Estudo **Análise e Desenvolvimento de Sistemas** (4/4).  
-- 🔭 Estou trabalhando em um **Portfólio**.  
-- 🌱 Atualmente estou aprendendo **Angular, Java, Git e Ferramentas Web**.  
-- 🌱 Estou participando **Oracle Next Education** (3/6).  
-- 👯 Procuro colaborar em **projetos de código aberto**.  
-- ⚡ Adoro resolver quebra-cabeças, desenhar e aprender coisas novas.  
-- 🎯 Busco melhorar habilidades de programação e contribuir para projetos de impacto.
+- Sou formada em **Análise e Desenvolvimento de Sistemas** e Pós graduanda em **UX/UI**.
+- Software Developer Jr at Montreal
+- Estou trabalhando em um **Portfólio**.  
+- Atualmente estou estudando **Angular, Java, UX, e Ferramentas Web**.  
+- Formada no **Oracle Next Education**.  
+- Adoro resolver quebra-cabeças, desenhar e aprender coisas novas.  
+- Busco melhorar habilidades de programação e contribuir para projetos de impacto.
 
 #
 
@@ -56,29 +56,6 @@
 
 
 <br>  <br>
-
-#
-
-<div style="text-align: center;" align="center">
- <h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yarazip&show_icons=true&count_private=true&hide=issues&bg_color=000000&title_color=BBBBBB&text_color=DDDDDD&icon_color=CCCCCC&border_color=444" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarazip&layout=compact&hide=html,scss,less&count_private=true&bg_color=000000&title_color=BBBBBB&text_color=DDDDDD&icon_color=CCCCCC&border_color=444" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-
-
-</div>
-
 
 ---
 
