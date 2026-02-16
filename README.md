@@ -11,7 +11,7 @@
 ---
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px; max-width: 600px; width: 100%;">
-  <h2 style="color: #333; font-size: 28px; margin-bottom: 20px;">🛠 My Stack</h2>  
+  <h2 style="color: #333; font-size: 28px; margin-bottom: 20px;"> My Stack</h2>  
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,angular,java,mysql,postgres,aws,php,typescript,vscode,git,spring,eclipse&theme=light" />
@@ -39,7 +39,7 @@
 
   <!-- Links à direita da imagem -->
   <div style="text-align: left; font-family: 'Arial', sans-serif;">
-    <h3 style="color: #333; margin-bottom: 20px;">🌐 Connect with me!</h3>
+    <h3 style="color: #333; margin-bottom: 20px;">Connect with me!</h3>
     <a href="https://www.linkedin.com/in/yara-rosa-dev" target="_blank" style="display: block; margin: 8px 0; font-size: 18px; color: #0077B5; text-decoration: none; font-weight: bold;">
         <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=EEEEEE" alt="LinkedIn">
     </a>  
